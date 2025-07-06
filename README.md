@@ -9,7 +9,7 @@
 
 ## Running the Analysis
 
-1.  Launch the Jupyter Notebook (`Aravind_Sachin_RAG_Legal_Docs.ipynb`).
+1.  Launch the Jupyter Notebook (`RAG_Legal_Docs.ipynb`).
 2.  Execute the cells sequentially to perform:
     *   Data loading, cleaning, and preprocessing.
     *   Exploratory Data Analysis and visualization.
