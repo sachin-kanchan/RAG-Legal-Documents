@@ -43,10 +43,3 @@ The project successfully demonstrated the construction of a functional RAG pipel
 *   Targeted investigation into the zero BLEU scores.
 *   Expansion of qualitative analysis to complement quantitative metrics.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Please feel free to check the [issues page](https://github.com/sachin-kanchan/RAG-Legal-Documents/issues) of this repository. 
-
-## License
-
-Consider adding a license (e.g., MIT, Apache 2.0) if you plan to share this project publicly.
