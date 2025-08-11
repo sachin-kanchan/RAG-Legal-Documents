@@ -1,0 +1,74 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# environment variables and configuration files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.*
+config.py
+settings.py
+secrets.py
+
+
+# api keys and tokens
+api_keys.txt
+tokens.txt
+*.key
+*.pem
+*.p12
+*.pfx
+
+# database files
+*.db
+*.sqlite
+*.sqlite3
+
+# jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# ide and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# data files (uncomment if you don't want to track large datasets)
+# *.csv
+# *.json
+# *.xlsx
+# *.parquet
+# data/
+# datasets/
+
+# log files
+*.log
+logs/
+
+# temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# backup files
+*.bak
+*.backup
